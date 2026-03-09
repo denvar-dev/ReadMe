@@ -25,12 +25,12 @@ Landing Pages — conversion-focused pages for local businesses and startups
  Modern, mobile-first landing page with online menu, reservation flow, and Google Maps integration.
 
 ✈️ Travel Agency Web App
-    ---------------------
- Full web app for a travel business — package listings, inquiry forms, and admin dashboard.
+   ---------------------
+ Full web app for a travel business  package listings, inquiry forms, and admin dashboard.
 
 🤖 Velora AI Architects
-    --------------------
- AI-assisted workflow system — early-stage SaaS exploring automation for architecture and construction businesses.
+   --------------------
+ AI-assisted workflow system  early-stage SaaS exploring automation for architecture and construction businesses.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
