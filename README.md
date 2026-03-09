@@ -1,37 +1,47 @@
-# 👋 Hi, I’m Denvar  
+Hey, I'm Junaid 👋
+Full-Stack Developer specializing in business process automation and custom web/mobile apps for small businesses in the US, UK, and Europe.
+I build things that save time, reduce manual work, and scale — not just pretty interfaces.
 
-💻 **Full-Stack Developer | Backend & App Developer | Frontend Specialist**  
-🚀 Building **responsive web apps**, **mobile apps**, and **scalable backends** using modern technologies.  
-🌐 Skilled across **JavaScript, Python, PHP, Java, C/C++, SQL, Flutter, and React Native**.  
-🤝 Open for freelance gigs, collaborations, and innovative projects.  
+🔧 What I Build
 
----
-
-## 🛠 Tech Stack  
-- **Frontend:** HTML5, CSS3, Tailwind, JavaScript (ES6+), React  
-- **Backend:** Node.js, Express, PHP, Django  
-- **Databases:** MySQL, MongoDB, Firebase  
-- **Mobile Development:** Flutter, React Native  
-- **Version Control & Tools:** Git, GitHub, Vercel, Netlify  
-
----
-
-## 📂 Featured Projects  
-| Project | Description | Demo | Repo |
-|---------|-------------|------|------|
-| 🌟 **Restaurant Landing Page** | Modern, mobile-first website for restaurants. | [Live Demo](#) | [Repo](#) |
-| 💼 **Portfolio Website Template** | Clean personal portfolio template to showcase work. | [Live Demo](#) | [Repo](#) |
-| 🏋️ **Fitness Studio Page** | ETHOS-style fitness landing page with CTA and features. | [Live Demo](#) | [Repo](#) |
+Business Automation — attendance systems, invoice workflows, lead capture pipelines, notification systems
+Web Apps — responsive, fast, production-ready (React, Node.js, Firebase)
+Mobile Apps — Android (Java/Kotlin) with real-world integrations
+Landing Pages — conversion-focused pages for local businesses and startups
 
 
+🚀 Featured Projects
+📋 Smart Attendance System
 
----
+Android app with face recognition, Firebase Auth, Firestore, and automated SMS/email notifications for institutions and businesses.
+Built for a real client. Replaces manual roll-call entirely.
 
-## 📬 Connect With Me  
-- ✉ **Email:** junaidpirjade1306@gmail.com 
-- 💼 **LinkedIn:** (https://www.linkedin.com/in/junaid-pirjade-a7b6a5318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-- 🌐 **Portfolio Website:** [Coming Soon](#)  
+🌐 Restaurant Landing Page
 
----
+Modern, mobile-first landing page with online menu, reservation flow, and Google Maps integration.
 
-⭐ *Pinned repositories below highlight my latest work. Feel free to explore and collaborate!*  
+✈️ Travel Agency Web App
+
+Full web app for a travel business — package listings, inquiry forms, and admin dashboard.
+
+🤖 Velora AI Architects
+
+AI-assisted workflow system — early-stage SaaS exploring automation for architecture and construction businesses.
+
+
+🛠️ Tech Stack
+Frontend    → React.js, HTML/CSS, Tailwind CSS
+Backend     → Node.js, Python (Flask/FastAPI), Firebase
+Mobile      → Android (Java), Firebase Auth, Firestore
+Automation  → n8n, Zapier integrations, custom scripts
+Database    → MySQL, Firestore, MongoDB
+
+📬 Let's Work Together
+I'm currently available for freelance projects — especially if you're a small business looking to automate repetitive work or need a reliable developer who actually ships.
+
+📧 junaidpirjade1306@gmail.com
+💼 Upwork Profile (link coming soon)
+🌍 Based in India • Working with US/UK/AU clients
+
+
+"I don't just write code. I build systems that work while you sleep."
