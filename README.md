@@ -16,20 +16,20 @@ Landing Pages — conversion-focused pages for local businesses and startups
 🚀 Featured Projects
 
 📋 Smart Attendance System
-
+   ------------------------
  Android app with face recognition, Firebase Auth, Firestore, and automated SMS/email notifications for institutions and businesses.
  Built for a real client. Replaces manual roll-call entirely.
 
 🌐 Restaurant Landing Page
-
+   ------------------------
  Modern, mobile-first landing page with online menu, reservation flow, and Google Maps integration.
 
 ✈️ Travel Agency Web App
-
+    ---------------------
  Full web app for a travel business — package listings, inquiry forms, and admin dashboard.
 
 🤖 Velora AI Architects
-
+    --------------------
  AI-assisted workflow system — early-stage SaaS exploring automation for architecture and construction businesses.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
